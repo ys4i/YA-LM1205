@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "LM1205")(type "KiCad")(uri "${KIPRJMOD}/footprints/LM1205.pretty")(options "")(descr "LM1205 footprints"))
+)
