@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "LM1205")(type "KiCad")(uri "${KIPRJMOD}/symbols/LM1205.kicad_sym")(options "")(descr "LM1205 symbol"))
+)
