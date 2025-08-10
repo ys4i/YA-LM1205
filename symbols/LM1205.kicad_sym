@@ -1,4 +1,6 @@
-(kicad_symbol_lib (version 20211014) (generator "python"))
+
+(kicad_symbol_lib (version 20211014) (generator "python")
+
   (symbol "LM1205" (pin_names (offset 0)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 21.05 0) (effects (font (size 1.27 1.27))))
     (property "Value" "LM1205" (id 1) (at 0 -21.05 0) (effects (font (size 1.27 1.27))))
